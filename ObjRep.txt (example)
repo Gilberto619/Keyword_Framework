@@ -1,0 +1,11 @@
+#************************ Objects Located in http://www.store.demoqa.com ************************ 
+# Store_Home_Page
+btn_MyAccount=.//*[@id='account']/a
+btn_LogOut=.//*[@id='account_logout']/a
+lbl_Error= .//*[@id='ajax_loginform']/p[1]
+
+# Store_LogIn_Page
+txtbx_UserName=.//*[@id='log']
+txtbx_Password=.//*[@id='pwd']
+btn_LogIn=.//*[@id='login']
+#************************************************************************************************
